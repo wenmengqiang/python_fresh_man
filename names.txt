@@ -1,0 +1,6 @@
+HelloWorld
+inputname
+learn1
+names.
+picknames
+sort
